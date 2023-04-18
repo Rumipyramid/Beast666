@@ -1,2 +1,3 @@
-# Work999
-Python ways
+# Herramoientas escenciales de análisis de data con Python
+Análisis descriptivos genearales y por cuartiles
+Análisis de regresión linear simple
